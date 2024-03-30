@@ -3,7 +3,7 @@
 3. For timing information, I use SharedPreferences to save data.
 4. In terms of the user interface, I implement a horizontal scrolling effect for the fitness schedule using RecyclerView along with LinearLayoutManager. Additionally, I use CardView to achieve a card-like appearance with shadows and rounded corners. The UI design can be surely improved.
 5. Clicking on an item in the list will trigger a dialog that displays detailed information.
-  
-   ![GitHub screenshot](https://github.com/EricHuGuangyu/workoutTrack/blob/main/image-1.png)
-   ![GitHub screenshot](https://github.com/EricHuGuangyu/workoutTrack/blob/main/image-2.png)
-   ![GitHub screenshot](https://github.com/EricHuGuangyu/workoutTrack/blob/main/image-3.png) 
+
+   <img src="https://github.com/EricHuGuangyu/workoutTrack/blob/main/image-1.png" alt="screenshot" width="100" height="100">
+   <img src="https://github.com/EricHuGuangyu/workoutTrack/blob/main/image-2.png" alt="screenshot" width="100" height="100">
+   <img src="https://github.com/EricHuGuangyu/workoutTrack/blob/main/image-3.png" alt="screenshot" width="100" height="100">
